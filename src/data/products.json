@@ -1,0 +1,149 @@
+{
+  "categories": [
+    {
+      "category": "Trousers",
+      "products": [
+        {
+          "id": 1,
+          "name": "Slim Fit Chinos",
+          "variety": "Slim Fit",
+          "price": 1200,
+          "reviews": [
+            {
+              "user": "Alice",
+              "rating": 4.5,
+              "comment": "Great fit and material!"
+            },
+            {
+              "user": "Bob",
+              "rating": 4,
+              "comment": "Comfortable but slightly long."
+            }
+          ],
+          "description": "Comfortable slim-fit chinos made from high-quality cotton.",
+          "image": "https://images.pexels.com/photos/7764611/pexels-photo-7764611.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+          "id": 2,
+          "name": "Relaxed Fit Cargo Pants",
+          "variety": "Relaxed Fit",
+          "price": 1500,
+          "reviews": [
+            {
+              "user": "Charlie",
+              "rating": 5,
+              "comment": "Perfect for casual outings!"
+            }
+          ],
+          "description": "Stylish cargo pants with multiple pockets.",
+          "image": "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+      ]
+    },
+    {
+      "category": "Shoes",
+      "products": [
+        {
+          "id": 1,
+          "name": "Running Sneakers",
+          "variety": "Sports",
+          "price": 2000,
+          "reviews": [
+            {
+              "user": "Diana",
+              "rating": 4.8,
+              "comment": "Very comfortable for long runs!"
+            }
+          ],
+          "description": "Lightweight sneakers ideal for running and jogging.",
+          "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+          "id": 2,
+          "name": "Classic Leather Shoes",
+          "variety": "Formal",
+          "price": 2500,
+          "reviews": [
+            {
+              "user": "Eve",
+              "rating": 4.2,
+              "comment": "Elegant and durable!"
+            }
+          ],
+          "description": "Timeless leather shoes suitable for formal occasions.",
+          "image": "https://images.pexels.com/photos/186035/pexels-photo-186035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+      ]
+    },
+    {
+      "category": "Sunglasses",
+      "products": [
+        {
+          "id": 1,
+          "name": "Polarized Aviators",
+          "variety": "Aviators",
+          "price": 1800,
+          "reviews": [
+            {
+              "user": "Frank",
+              "rating": 4.7,
+              "comment": "Stylish and reduces glare effectively."
+            }
+          ],
+          "description": "Classic aviator sunglasses with polarized lenses for optimal clarity.",
+          "image": "https://images.pexels.com/photos/255305/pexels-photo-255305.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+          "id": 2,
+          "name": "Retro Round Sunglasses",
+          "variety": "Round Frame",
+          "price": 1200,
+          "reviews": [
+            {
+              "user": "Grace",
+              "rating": 4.3,
+              "comment": "Very trendy and comfortable."
+            }
+          ],
+          "description": "Retro round-frame sunglasses perfect for a vintage look.",
+          "image": "https://images.pexels.com/photos/343720/pexels-photo-343720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+      ]
+    },
+    {
+      "category": "T-Shirts",
+      "products": [
+        {
+          "id": 1,
+          "name": "Graphic Printed Tee",
+          "variety": "Printed",
+          "price": 800,
+          "reviews": [
+            {
+              "user": "Henry",
+              "rating": 4.5,
+              "comment": "Cool design and comfortable fit."
+            }
+          ],
+          "description": "Soft cotton T-shirt with trendy graphic prints.",
+          "image": "https://images.pexels.com/photos/2560894/pexels-photo-2560894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+          "id": 2,
+          "name": "Solid Color Crew Neck",
+          "variety": "Plain",
+          "price": 600,
+          "reviews": [
+            {
+              "user": "Ivy",
+              "rating": 4.0,
+              "comment": "Good quality for the price."
+            }
+          ],
+          "description": "Simple crew neck T-shirt made with premium fabric for everyday use.",
+          "image": "https://images.pexels.com/photos/6347892/pexels-photo-6347892.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+      ]
+    }
+  ]
+}

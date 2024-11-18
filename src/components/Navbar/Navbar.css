@@ -1,0 +1,29 @@
+.navbar {
+  width: 100vw;
+  display: flex;
+  gap: 1rem;
+  padding: 0.2rem 0;
+  background: #f4f4f4;
+  justify-content: center;
+}
+
+.navbar-button {
+  padding: 0.5rem 1rem;
+  border: none;
+  /* background: #007bff; */
+  color: black;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background 0.3s;
+}
+
+.navbar-button:hover {
+  /* background: #0056b3; */
+  text-decoration: underline;
+}
+
+.navbar-button.active {
+ text-decoration: underline;
+ font-weight: 700;
+}
