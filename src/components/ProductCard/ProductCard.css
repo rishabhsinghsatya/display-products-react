@@ -24,10 +24,11 @@
     font-size: 1.25rem;
     font-weight: bold;
     margin: 0.5rem 0;
+    color: white;
   }
   
   .product-card-variety {
-    color: #555;
+    color: yellow;
     margin: 0.5rem 0;
   }
   
@@ -40,8 +41,8 @@
   
   .product-card-button {
     padding: 0.5rem 1rem;
-    background: #007bff;
-    color: white;
+    background: white;
+    color: black;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -50,6 +51,6 @@
   }
   
   .product-card-button:hover {
-    background: #0056b3;
+    background: gray;
   }
   
